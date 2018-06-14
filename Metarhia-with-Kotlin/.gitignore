@@ -1,0 +1,25 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# local configurations of dev tools
+**/.gradle
+**/.idea
+**/.settings
+*.project
+*.classpath
+*.iml
+*.db
+
+# output directories
+**/build
+**/out
