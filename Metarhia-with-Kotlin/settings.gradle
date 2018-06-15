@@ -1,6 +1,6 @@
 rootProject.name = 'Metarhia-with-Kotlin'
-include 'Sandbox'
 include 'Contexts-and-Closures'
 include 'Mixins'
 include 'Wrappers'
+include 'Memoization'
 
